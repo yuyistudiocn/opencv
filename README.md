@@ -1,0 +1,2 @@
+# opencv
+HackintoOpencv-AI
